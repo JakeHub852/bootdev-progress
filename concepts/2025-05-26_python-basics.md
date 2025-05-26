@@ -25,7 +25,7 @@ avg = (a + b + c) / 3
 
 Comments make code easier to understand but are ignored by Python
 
-# This is a comment
+To begin comment use #
 
 For multi-line comments or documentation, use triple quotes:
 
