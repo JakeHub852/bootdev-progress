@@ -90,4 +90,16 @@ is_tall = True
 is_short = False
 ```
 
+## F' Strings in Python
+In python we can create strings with dynamic values with the f'string syntax.
+
+```python
+num_bananas = 10
+f_string = f"You have {num_bananas} bananas"
+print(f_string)
+# You have 10 bananas
+```
+* Opening quotes must be preceded by an f.
+* Variables with curly brackets have their values 'interpolated' into the string.
+* Just a string with special syntax.
 
