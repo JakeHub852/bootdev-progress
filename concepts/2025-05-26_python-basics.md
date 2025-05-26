@@ -103,3 +103,9 @@ print(f_string)
 * Variables with curly brackets have their values 'interpolated' into the string.
 * Just a string with special syntax.
 
+## None type Variables
+Not all variables have a value. We can make an "empty" variable by setting it to None. None is a special value in Python that represents the absence of a value. It is not the same as zero, False, or an empty string.
+
+```python
+my_mental_acuity = None
+```
