@@ -6,7 +6,7 @@
 - Fixed a basic math bug in the Boot.dev code editor.
 - Edited and corrected in-game dialogue using `print()` statements.
 - Explored syntax vs logic errors and how to debug them.
-- Fixed syntax error in 'print((250 + 241 + 244 + 255) / 4)'.
+- Fixed syntax error in `print((250 + 241 + 244 + 255) / 4)`.
 - Understood why Python isn’t used in the browser:
   - Browsers run JavaScript natively, not Python.
   - Python workarounds like Brython or Pyodide are slow and limited.
