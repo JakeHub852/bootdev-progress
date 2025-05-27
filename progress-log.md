@@ -56,3 +56,7 @@
 - Added character report to code snippets
 - Use Git Bash to push to GitHub
 - Restructured Repo with new subfolders
+
+## 📅 2025-05-27 - Session 2
+- Started work on **Functions**
+- 
