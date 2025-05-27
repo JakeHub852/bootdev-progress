@@ -48,9 +48,10 @@
 ## 📅 2025-05-27 - Session 1
 
 - Continued learning about NoneTypes
-- Added NoneType Concept file to concepts for later reference
-- Dynamic typing and Static typing
+- Added **NoneType** concept file to concepts for later reference
+- **Dynamic typing** and **Static typing**
 - Added file to concepts
-- Used concatenation to combine variables 
+- Used **concatenation** to combine variables 
 - Did some simple math to calculate average scores in the game
 - Added character report to code snippets
+- Use Git Bash to push to GitHub
