@@ -55,3 +55,4 @@
 - Did some simple math to calculate average scores in the game
 - Added character report to code snippets
 - Use Git Bash to push to GitHub
+- Restructured Repo with new subfolders
