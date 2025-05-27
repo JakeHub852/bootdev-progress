@@ -29,3 +29,28 @@
 - Learned about **negative numbers** and their use in expressions.
 - Introduced **comments**:
   - Single-line with `#`, multi-line using triple quotes `""" """` (docstrings).
+
+## 📅 2025-05-26 - Session 3
+
+
+- Practiced Git commands in Git Bash (add, commit, push).
+- Switched from `nano` to **VSCode** for editing Markdown files.
+  - Editing is smoother and formatting issues are gone.
+  - Learned how to open folders and preview `.md` files in VSCode.
+- Learned to use VSCode for writing clean, structured Markdown:
+  - Used code blocks (` ```python `) for Python syntax highlighting.
+  - Formatted lists, headings, and comments more clearly.
+- Created and committed a combined `.md` file:
+  - **`python-backend-vs-frontend.md`**
+  - Explained why Python is good for backend, and why it’s not used for frontend.
+- Began learning about f-strings.
+
+## 📅 2025-05-27 - Session 1
+
+- Continued learning about NoneTypes
+- Added NoneType Concept file to concepts for later reference
+- Dynamic typing and Static typing
+- Added file to concepts
+- Used concatenation to combine variables 
+- Did some simple math to calculate average scores in the game
+- Added character report to code snippets
