@@ -48,7 +48,7 @@
 ## 📅 2025-05-27 - Session 1
 
 - Continued learning about **NoneTypes**
-- Added **NoneType** concept file to concepts for later reference.
+- Added **`none-type.md`** concept file to concepts for later reference.
 - **Dynamic typing** and **Static typing**.
 - Added file to concepts.
 - Used **concatenation** to combine variables.
