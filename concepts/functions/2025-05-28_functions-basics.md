@@ -59,5 +59,10 @@ print(area_of_circle(7))  # 153.86
 
 We can now calculate the area for any circle just by calling `area_of_circle()` with a different radius.
 
+
 ---
+
+
+
+
 

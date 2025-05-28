@@ -72,3 +72,9 @@
 ## 📅 2025-05-28 - Session 2
 - Understanding the difference between print() and return.
 - Added **`print-vs-return.md`** and **`print-vs-return.py`** to concepts and snippets.
+- Learned more about order of functions.
+  - Added **`order-of-functions.md`** to concepts.
+>* Define all functions before they are used.
+>* Use a `main()` function as the entry point.
+>* Call `main()` at the bottom of your file.
+- Added **`farenheit-to-celcius.py`**  to code-snippets.
