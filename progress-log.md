@@ -53,7 +53,7 @@
 - Added file to concepts.
 - Used **concatenation** to combine variables.
 - Did some simple math to calculate average scores in the game.
-- Added character report to code snippets.
+- Added **`character-report`** to code snippets.
 - Use Git Bash to push to GitHub.
 - Restructured Repo with new subfolders.
 
@@ -63,8 +63,12 @@
 ## 📅 2025-05-28 - Session 1
 - Continuing work on **functions**
 - Created simple function to calculate the area of a circle.
-- Learned about how **functions** can accept **multiple parameters**
+- Learned about how **functions** can accept **multiple parameters**.
 - Created and commited concept files for function basics and multiple parameters.
   - **`functions-basics.md`** and **`multiple-parameters.md`**
 - Wrote code for triple attack in Fantasy Quest.
 - Added **`area-of-circle.py`** and **`triple-attack.py`** to code-snippets.
+
+## 📅 2025-05-28 - Session 2
+- Understanding the difference between print() and return.
+- Added **`print-vs-return.md`** and **`print-vs-return.py`** to concepts and snippets.
