@@ -78,3 +78,6 @@
 >* Use a `main()` function as the entry point.
 >* Call `main()` at the bottom of your file.
 - Added **`farenheit-to-celcius.py`**  to code-snippets.
+
+## 📅 2025-05-29 - Session 1
+- Functions are defined using keyword **def**.
