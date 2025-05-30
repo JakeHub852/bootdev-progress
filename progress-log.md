@@ -87,7 +87,9 @@ Had some serious issues with my local PC and Onedrive. Thankfully, it's all sort
 Trying to return to some practice now.
 
 ## 📅 2025-05-30 - Session 1
-- Returned to my work on functions
-- Wrote a simple program to convert hours into seconds
-- Created new **`become-warrior`** function and added it to code-snippets
-
+- Returned to my work on functions.
+- Wrote a simple program to convert hours into seconds.
+- Created new **`become-warrior`** function and added it to code-snippets.
+- Added **`get-punched-slashed.py`** to code-snippets.
+- Learning about setting default values within a function.
+- Updated **`functions-basics.md`** with notes on default values.
