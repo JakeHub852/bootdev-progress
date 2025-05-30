@@ -81,3 +81,13 @@
 
 ## 📅 2025-05-29 - Session 1
 - Functions are defined using keyword **def**.
+
+## 📅 2025-05-29 - Session 2
+Had some serious issues with my local PC and Onedrive. Thankfully, it's all sorted now and I have purged both my PC and laptop with no files lost. Not a big fan of Onedrive right now.
+Trying to return to some practice now.
+
+## 📅 2025-05-30 - Session 1
+- Returned to my work on functions
+- Wrote a simple program to convert hours into seconds
+- Created new **`become-warrior`** function and added it to code-snippets
+
