@@ -60,35 +60,7 @@ print(area_of_circle(7))  # 153.86
 We can now calculate the area for any circle just by calling `area_of_circle()` with a different radius.
 
 
-
-````markdown
-# Python: Default Function Arguments
-
-In Python, you can specify default values for function arguments. This is useful for making some parameters optional.
-
-## Syntax
-
-Default values are set using the assignment (`=`) operator in the function signature:
-
-```python
-def get_greeting(email, name="there"):
-    print("Hello", name, "welcome! You've registered your email:", email)
-````
-
-## Examples
-
-```python
-get_greeting("lane@example.com", "Lane")
-# Output: Hello Lane welcome! You've registered your email: lane@example.com
-
-get_greeting("lane@example.com")
-# Output: Hello there welcome! You've registered your email: lane@example.com
-```
-
-## Notes
-
-* Parameters with default values must come **after** all required parameters.
-* Default values are used when the caller omits the argument.
+---
 
 
 
