@@ -84,12 +84,19 @@
 
 ## 📅 2025-05-29 - Session 2
 Had some serious issues with my local PC and Onedrive. Thankfully, it's all sorted now and I have purged both my PC and laptop with no files lost. Not a big fan of Onedrive right now.
-Trying to return to some practice now.
+Trying to return to some practice.
 
-## 📅 2025-05-30 - Session 1
+## 📅 2025-05-30
 - Returned to my work on functions.
 - Wrote a simple program to convert hours into seconds.
 - Created new **`become-warrior`** function and added it to code-snippets.
-- Added **`get-punched-slashed.py`** to code-snippets.
-- Learning about setting default values within a function.
-- Updated **`functions-basics.md`** with notes on default values.
+- Created **`triple-attack.py`** and **`get-punched-slashed`** functions 
+
+## 📅 2025-05-31
+- Created new **`curse-function.py`** file and added it to code-snippets.
+- Learned about **scope**
+- Moving onto **unit test** type lessons
+
+## 📅 2025-06-01 - Session 1
+- Learned about debugging 
+- Use print statements to make sure it's doing what it should be
