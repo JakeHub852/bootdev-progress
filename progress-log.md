@@ -106,7 +106,17 @@ Trying to return to some practice now.
 - More tips on learning effectively and added notes to concepts/basis.
 - Worked on **`max-health.py`** function.
 
-## 📅 2025-06-02
+## 📅 2025-06-02 -  Session 1
 - Learning aboout stack trace.
-- Added **`stack-trace.md`** to concepts/basics
+- Added **`stack-trace.md`** to concepts/basics.
+- Started new chapter **Computing**.
+- Learned about python numbers, floor division and exponents.
+- Added my own **``exponents.py``** to code-snippets/numbers.
 
+## 📅 2025-06-02 - Session 2 
+- Learning about changing variables in place.
+- Learned more about using main and main_test and how to add them to my VCS notes
+- Started new way to organise files instead of naming file YYYY/MM/DD_file, I will name the folder and have the file called main inside
+- Added mkdatefolder.sh script to make dated folders as well as files 
+- Started thinking about an idea for a project: Meal Randomizer
+- 
