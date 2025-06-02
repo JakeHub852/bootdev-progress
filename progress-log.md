@@ -115,8 +115,13 @@ Trying to return to some practice now.
 
 ## 📅 2025-06-02 - Session 2 
 - Learning about changing variables in place.
-- Learned more about using main and main_test and how to add them to my VCS notes
-- Started new way to organise files instead of naming file YYYY/MM/DD_file, I will name the folder and have the file called main inside
-- Added mkdatefolder.sh script to make dated folders as well as files 
-- Started thinking about an idea for a project: Meal Randomizer
-- 
+- Learned more about using main and main_test and how to add them to my VCS notes.
+- Started new way to organise files instead of naming file YYYY/MM/DD_file, I will name the folder and have the file called main inside.
+- Added mkdatefolder.sh script to make dated folders as well as files.
+- Started thinking about an idea for a project: Meal Randomizer.
+
+## 📅 2025-06-02 - Session 3
+- Added **``scientific-notation.md``** to computing notes. 
+- Added working scientific-notation test to code-snippets.
+- Learning more about logical operators. 
+- ``and`` ``or`` and  ``not``.

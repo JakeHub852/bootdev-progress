@@ -1,10 +1,11 @@
 
----
+````markdown
 
 ## Changing in Place
 
 **Changing in place** means updating a variable's value by using its *current* value to calculate its *new* value. This is a common technique in programming, especially in games or any system where values change over time.
 
+````
 ### Example: Increasing a Score
 
 ```python

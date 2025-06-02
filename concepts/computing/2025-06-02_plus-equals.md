@@ -1,5 +1,4 @@
 ````markdown
-
 ## Plus Equals
 Python makes reassignment easy when doing math. In JavaScript or Go, you might be familiar with the ++ syntax for incrementing a number variable by 1. In Python, we use the += in-place operator instead.
 ````
@@ -9,7 +8,7 @@ star_rating += 1
 # star_rating is now 5
 ````
 
-Other Operators
+>Other Operators
 
 The other in-place operators work similarly:
 ````python
