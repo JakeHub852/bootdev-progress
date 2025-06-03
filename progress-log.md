@@ -129,6 +129,7 @@ Trying to return to some practice now.
 
 ## 2025-06-03
 - Binary numbers.
-- Added **``binary-numbers.md``** to concepts/computing
-- Added guild permissions function that uses AND operator
-- 
+- Added **``binary-numbers.md``** to concepts/computing.
+- Added guild permissions function that uses AND operator.
+- Added bitwise | operator to code-snippets.
+- Added notes to concepts.
