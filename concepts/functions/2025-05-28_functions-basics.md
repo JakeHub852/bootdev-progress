@@ -1,10 +1,9 @@
 
----
-
+````markdown
 ## Functions – Reusing Code
 
 Functions allow us to **organize** and **reuse** code, which is especially useful when performing the same task multiple times (like calculating the area of circles with different radii).
-
+````
 ### Problem Without Functions
 
 ```python
