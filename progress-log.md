@@ -140,6 +140,9 @@ Trying to return to some practice now.
 - Using num() function to convert binary string to integer.
 - Added **``binary-to-integer``** to code-snippets.
 - Added **``converting-binary.md``** to concepts.
-- Learned about comparison operators
-- Added **``compare-heights``** and **``player1-wins``** to code-snippets
-- **``can_withstand_blow``** function for comparing hero armor to enemy damage
+- Learned about comparison operators.
+- Added **``compare-heights``** and **``player1-wins``** to code-snippets.
+- **``can_withstand_blow``** function for comparing hero armor to enemy damage.
+- Fixed file structure to include new folder for logic and comparisons.
+- Added **``if-statements``** to code-snippets and concepts.
+- Used == operator in **``check-swords``**
