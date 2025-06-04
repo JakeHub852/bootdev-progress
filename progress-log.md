@@ -133,3 +133,9 @@ Trying to return to some practice now.
 - Added guild permissions function that uses AND operator.
 - Added bitwise | operator to code-snippets.
 - Added notes to concepts.
+
+## 2025-06-04
+- More work on binary numbers.
+- Using num() function to convert binary string to integer.
+- Added **``binary-to-integer.py``** to code-snippets.
+- Added **``converting-binary.md``** to concepts.
