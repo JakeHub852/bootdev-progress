@@ -1,4 +1,5 @@
-````markdown
+____
+
 ## 2025-05-26 – Session 1
 
 - Learned what code is: a sequence of instructions executed in order.
@@ -137,5 +138,8 @@ Trying to return to some practice now.
 ## 2025-06-04
 - More work on binary numbers.
 - Using num() function to convert binary string to integer.
-- Added **``binary-to-integer.py``** to code-snippets.
+- Added **``binary-to-integer``** to code-snippets.
 - Added **``converting-binary.md``** to concepts.
+- Learned about comparison operators
+- Added **``compare-heights``** and **``player1-wins``** to code-snippets
+- **``can_withstand_blow``** function for comparing hero armor to enemy damage
