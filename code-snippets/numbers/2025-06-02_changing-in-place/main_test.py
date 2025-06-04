@@ -1,4 +1,4 @@
-from main import update_player_score
+from main import *
 
 run_cases = [
     (0, 100, 100),

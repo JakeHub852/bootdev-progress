@@ -11,7 +11,7 @@ def test(f):
     print(f, "degrees fahrenheit is", c, "degrees celsius")
 
 
-test(100)
+test(144)
 test(88)
 test(104)
 test(112)
