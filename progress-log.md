@@ -152,3 +152,7 @@ Trying to return to some practice now.
 - **``player_status``** function added to code-snippets/logic
 - More work on if else statements and using == operator in **``check-high-score``**
 - Added elif statement **``check-high-low-score``**
+- More on boolean logic **and** **or**
+- Added **``does-attack-hit``** to code-snippets/logic
+- Added more to code-snippets so players can purchase beers and rent mounts
+- Added **``combat-advantage``** to code-snippets
