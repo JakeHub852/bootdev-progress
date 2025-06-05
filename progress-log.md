@@ -146,3 +146,9 @@ Trying to return to some practice now.
 - Fixed file structure to include new folder for logic and comparisons.
 - Added **``if-statements``** to code-snippets and concepts.
 - Used == operator in **``check-swords``**
+
+## 2025-06-05
+- Added notes on **if**-**elif**-**else** to concepts
+- **``player_status``** function added to code-snippets/logic
+- More work on if else statements and using == operator in **``check-high-score``**
+- Added elif statement **``check-high-low-score``**
