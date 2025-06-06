@@ -156,3 +156,4 @@ Trying to return to some practice now.
 - Added **``does-attack-hit``** to code-snippets/logic
 - Added more to code-snippets so players can purchase beers and rent mounts
 - Added **``combat-advantage``** to code-snippets
+- Started work on for *loops* 
