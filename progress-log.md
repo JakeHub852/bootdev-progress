@@ -145,15 +145,23 @@ Trying to return to some practice now.
 - **``can_withstand_blow``** function for comparing hero armor to enemy damage.
 - Fixed file structure to include new folder for logic and comparisons.
 - Added **``if-statements``** to code-snippets and concepts.
-- Used == operator in **``check-swords``**
+- Used == operator in **``check-swords``**.
 
 ## 2025-06-05
-- Added notes on **if**-**elif**-**else** to concepts
-- **``player_status``** function added to code-snippets/logic
-- More work on if else statements and using == operator in **``check-high-score``**
-- Added elif statement **``check-high-low-score``**
-- More on boolean logic **and** **or**
-- Added **``does-attack-hit``** to code-snippets/logic
-- Added more to code-snippets so players can purchase beers and rent mounts
-- Added **``combat-advantage``** to code-snippets
-- Started work on for *loops* 
+- Added notes on **if**-**elif**-**else** to concepts.
+- **``player_status``** function added to code-snippets/logic.
+- More work on if else statements and using == operator in **``check-high-score``**.
+- Added elif statement **``check-high-low-score``**.
+- More on boolean logic **and** **or**.
+- Added **``does-attack-hit``** to code-snippets/logic.
+- Added more to code-snippets so players can purchase beers and rent mounts.
+- Added **``combat-advantage``** to code-snippets.
+- Started work on for *loops*.
+
+## 2025-06-10
+- Back from holiday resuming work on loops.
+- Added **``sum-game``** to code snippets (Example of **for** loops).
+- Used another for loop to calculate sum of odd numbers and added it to code-snippets.
+- Added **``for-loops.md``** to concepts.
+- Moved onto while loops
+- Created function that allows player health regeneration when an enemy is a certain distance away
