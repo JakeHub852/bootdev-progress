@@ -165,3 +165,7 @@ Trying to return to some practice now.
 - Added **``for-loops.md``** to concepts.
 - Moved onto while loops
 - Created function that allows player health regeneration when an enemy is a certain distance away
+
+## 2025-06-11
+- Added **``match-countdown``** to code-snippets
+- Note on *while* loops added to concepts

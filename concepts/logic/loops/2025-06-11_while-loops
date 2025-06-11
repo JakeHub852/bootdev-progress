@@ -1,0 +1,53 @@
+
+---
+
+## `while` Loops in Python
+
+Python provides another type of loop called the `while` loop. This loop continues to execute **as long as a given condition remains `True`**.
+
+### Basic Syntax
+
+```python
+while condition:
+    # code block
+```
+
+### Infinite Loop Example
+
+```python
+while 1:
+    print("1 evaluates to True")
+```
+
+**Output:**
+
+```
+1 evaluates to True
+1 evaluates to True
+...
+```
+
+This loop runs forever because `1` always evaluates to `True`. This is called an **infinite loop**.
+
+### Typical Use Case with a Condition
+
+Usually, the condition in a `while` loop involves a variable or comparison that eventually becomes `False`, stopping the loop.
+
+```python
+num = 0
+while num < 3:
+    num += 1
+    print(num)
+```
+
+**Output:**
+
+```
+1
+2
+3
+```
+
+Here, the loop runs until `num` is no longer less than `3`.
+
+---
