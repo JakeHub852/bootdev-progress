@@ -167,5 +167,16 @@ Trying to return to some practice now.
 - Created function that allows player health regeneration when an enemy is a certain distance away
 
 ## 2025-06-11
-- Added **``match-countdown``** to code-snippets
-- Note on *while* loops added to concepts
+- Added **``match-countdown``** to code-snippets.
+- Note on *while* loops added to concepts.
+
+## 2025-06-11
+- Returned to work on loops added totalxp function to code-snippets.
+- Added meditation function that uses while loop.
+- Started learning about lists.
+- The length of a List can be calculated using the len() function.
+- Added **``lists.md``** to concepts/computing.
+- Learned about pop values and added corresponding code-snippet.
+- Used character levels example to find changes in lists.
+- Next lesson is on find max and infinity.
+- Leaving it here for today.
