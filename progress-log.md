@@ -192,3 +192,11 @@ Trying to return to some practice now.
 - Added **``slicing-lists``** and **``concatenate-lists``** to code-snippets.
 - Learning about **Tuples**
 - Tuples are collections of data that are ordered and unchangeable.
+- >if len(items) == 0:  
+- Can be used to check if list is empty.
+- Great example of many concepts in **``reverse-list``** code-snippets.
+- Added great real world example of a lot of these concepts with lists and strings in the **``filter-messages-example.md``**.
+- Wrote a function to split players into teams **``even-teams``**.
+- Odd can be split like [::2].
+- Even can be split like [1::2].
+ 
