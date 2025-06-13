@@ -19,7 +19,7 @@ This repository tracks my day-by-day progress as I work through Boot.dev’s pro
 
 - [Boot.dev](https://boot.dev): Main curriculum (Python, Linux, Git, JavaScript)
 - GitHub: Version control & accountability
-- Visual Studio Code: Occasional code practice
+- Visual Studio Code: Code practice
 - Markdown: For daily logs
 
 ---

@@ -179,4 +179,16 @@ Trying to return to some practice now.
 - Learned about pop values and added corresponding code-snippet.
 - Used character levels example to find changes in lists.
 - Next lesson is on find max and infinity.
-- Leaving it here for today.
+
+## 2025-06-11
+- Learned about using negative infinity ("-inf") as a starting point to find max value.
+- Modulo operator is used to divide and find a remainder.
+- An odd number is a number that when divided by 2, the remainder is not 0.
+- Added **``find-max``** amd **``modulo-operator``** to code-snippets/lists.
+- Learned about slicing lists [start : stop : step].
+- You can also omit sections from start stop or step.
+- Remember first item on a list is at index 0.
+- Can concatenate lists (squish them together) using + operator.
+- Added **``slicing-lists``** and **``concatenate-lists``** to code-snippets.
+- Learning about **Tuples**
+- Tuples are collections of data that are ordered and unchangeable.
