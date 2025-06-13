@@ -26,7 +26,7 @@ This repository tracks my day-by-day progress as I work through Boot.dev’s pro
 
 ## 🗓️ Learning Log
 
-Progress is tracked in the `daily-log.md` file (or in daily commits).  
+Progress is tracked in the `progress-log.md` file.  
 Each entry includes what I studied, what I found difficult, and what I want to review.
 
 ---
