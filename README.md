@@ -46,6 +46,3 @@ I come from a background in skilled trades and previously studied jazz guitar at
 Due to injury and life circumstances, I’m now taking time to recover and retrain in a sustainable, intellectually engaging field. This repo reflects that journey.
 
 ---
-
-> "Keep showing up — even at 60%."  
-This repo is my way of doing just that.
