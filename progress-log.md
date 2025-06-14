@@ -197,6 +197,12 @@ Trying to return to some practice now.
 - Great example of many concepts in **``reverse-list``** code-snippets.
 - Added great real world example of a lot of these concepts with lists and strings in the **``filter-messages-example.md``**.
 - Wrote a function to split players into teams **``even-teams``**.
-- Odd can be split like [::2].
-- Even can be split like [1::2].
+- Even can be split like [::2].
+- Odd can be split like [1::2] (Remember starts at 0)
+
+## 2025-06-12
+- Continued work on lists. Created a function that compares 2 lists to find how complete the 1st list is based on the items
+in the 2nd list and what items are needed to complete it.
+- Can be found in code-snippets/computing/lists  **``alchemy-ingredients``**
+
  
