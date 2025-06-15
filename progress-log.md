@@ -203,6 +203,12 @@ Trying to return to some practice now.
 ## 2025-06-12
 - Continued work on lists. Created a function that compares 2 lists to find how complete the 1st list is based on the items
 in the 2nd list and what items are needed to complete it.
-- Can be found in code-snippets/computing/lists  **``alchemy-ingredients``**
+- Can be found in code-snippets/computing/lists  **``alchemy-ingredients``**.
 
- 
+## 2025-06-15
+- Moved onto dictionaries. Having trouble with Nesting (accessing values inside a list inside a dictionary).
+- Dictionaries are used to store data in **key** - **value** pairs.
+- Added function that counts enemies and adds them to dictionary. Increments the counter or adds a new key for a new enemy.
+- Using iterating through dictionary key value pairs to count enemies.
+- It's tricky but the most important part is defining the key and then it's value
+using a for loop.
