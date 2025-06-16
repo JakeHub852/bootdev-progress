@@ -211,4 +211,17 @@ in the 2nd list and what items are needed to complete it.
 - Added function that counts enemies and adds them to dictionary. Increments the counter or adds a new key for a new enemy.
 - Using iterating through dictionary key value pairs to count enemies.
 - It's tricky but the most important part is defining the key and then it's value
-using a for loop.
+using a for loop. 
+
+## 2025-06-16
+- You can chain dictionary keys to access a dictionary inside of another dictionary.
+- Added code-snippet **``merge-dictionaries``** and concept **``dictionaries-contd.md``**.
+- Moving onto **sets**.
+- Sets are like Lists, but they are unordered and they guarantee uniqueness. Only ONE of each value can be in a set.
+- Added **``remove-duplicates``** to code-snippets with 3 different methods of solving problem.
+- **``counting-vowels``** added to code-snippets.
+- We can use some of the "normal" mathematical operations on sets. For example, you can subtract one set from another.
+ It removes all the values in the second set from the first set.
+ - An example can be found in my code-snippets. **``set-subtraction``**.
+
+ 
