@@ -223,5 +223,15 @@ using a for loop.
 - We can use some of the "normal" mathematical operations on sets. For example, you can subtract one set from another.
  It removes all the values in the second set from the first set.
  - An example can be found in my code-snippets. **``set-subtraction``**.
+- Moving onto errors and exceptions in python.
+- Example of try/ except and printing exceptions in **``get-player-record``** in code-snippets.
+- Good example of why exception order matters in **``process-player-record``**.
 
- 
+## 2025-06-17
+- Moving on with errors and exceptions.
+- Python has many types of errors called exceptions (like IndexError and ZeroDivisionError). These are specific types of a general error type called Exception.
+- What matters when handling errors is the type of the exception — not the error message (the string in quotes). So even if two errors have the same message, they’re treated differently if their types are different.
+- This is especially important when working with errors from other files or libraries.
+- Good example of raising exceptions in **``purchase-item``** in code-snippets.
+- Going over some python basics now. Adding all numbers within a range. Finding the minimum number. Sorting using the type() function.
+- Trying to figure out this problem on factorials but don't know how to get 0! = 1.
