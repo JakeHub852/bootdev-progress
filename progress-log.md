@@ -236,3 +236,8 @@ using a for loop.
 - Going over some python basics now. Adding all numbers within a range. Finding the minimum number. Sorting using the type() function.
 - Trying to figure out this problem on factorials but don't know how to get 0! = 1.
 - Figured out what I was doing wrong. Need to initialize result variable at 1 (the base for factorials) not 0.
+
+## 2025-06-17
+- More practice. 
+- Completed **``area-sum``** which takes a list of rectangles where each rectangle is a dictionary and calculates the area of each rectangle and returns the sum of all areas.
+- Working on a problem that converts a list of strings into a single string with each word seperated by a ",".
