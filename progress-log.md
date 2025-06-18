@@ -235,3 +235,4 @@ using a for loop.
 - Good example of raising exceptions in **``purchase-item``** in code-snippets.
 - Going over some python basics now. Adding all numbers within a range. Finding the minimum number. Sorting using the type() function.
 - Trying to figure out this problem on factorials but don't know how to get 0! = 1.
+- Figured out what I was doing wrong. Need to initialize result variable at 1 (the base for factorials) not 0.
