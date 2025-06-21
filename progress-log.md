@@ -241,3 +241,20 @@ using a for loop.
 - More practice. 
 - Completed **``area-sum``** which takes a list of rectangles where each rectangle is a dictionary and calculates the area of each rectangle and returns the sum of all areas.
 - Working on a problem that converts a list of strings into a single string with each word seperated by a ",".
+
+## 2025-06-18
+- Finished final problem on converting list of strings into a single string. 
+- Can be found in code-snippets/practice **``join-strings``**.
+
+## 2025-06-19
+- Coming to the end of the basics course so just some light revision for today.
+
+## 2025-06-20
+- Read a nice little piece by Tim Peters, a long time Pythonista.
+- The Zen of Python can be found in concepts/basics 
+
+## 2025-06-21
+- Fineshed basics course today.
+- This course was a solid introduction to Python. The lessons were well explained and structured in a way that kept things engaging.
+- A few sections were tricky, but nothing ever felt too overwhelming. Overall, it was a good balance of challenge and clarity.
+- Looking forward to building on this foundation in the next course.
