@@ -254,7 +254,7 @@ using a for loop.
 - The Zen of Python can be found in concepts/basics 
 
 ## 2025-06-21
-- Fineshed basics course today.
+- Finished basics course today.
 - This course was a solid introduction to Python. The lessons were well explained and structured in a way that kept things engaging.
 - A few sections were tricky, but nothing ever felt too overwhelming. Overall, it was a good balance of challenge and clarity.
 - Looking forward to building on this foundation in the next course.
