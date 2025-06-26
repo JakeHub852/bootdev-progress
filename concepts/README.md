@@ -11,15 +11,18 @@ Each file summarizes a single idea (like `stack traces`, `tuples`, or `scope`) t
 - Stack traces, debugging
 - Computing concepts (binary, scientific notation)
 - Logic & conditionals (if, elif, boolean operators)
-- Data structures (lists, tuples)
+- Data structures (lists, tuples, dictionaries)
+- Moving onto Linux
 
 ## 🗃️ Structure
 
 Organized by category:
 - `/basics` – fundamentals of Python
 - `/computing` – deeper computing/math concepts
+- `/errors` - errors amd handling exceptions
 - `/functions` - organize logic, avoid reptition
 - `/logic` – boolean reasoning, conditionals
+- `/linux` - use shells and terminals in a Unix-like environment
 
 ---
 
