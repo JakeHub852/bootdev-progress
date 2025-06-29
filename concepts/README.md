@@ -12,7 +12,7 @@ Each file summarizes a single idea (like `stack traces`, `tuples`, or `scope`) t
 - Computing concepts (binary, scientific notation)
 - Logic & conditionals (if, elif, boolean operators)
 - Data structures (lists, tuples, dictionaries)
-- Moving onto Linux
+- Moving onto Linux (meat and potatoes)
 
 ## 🗃️ Structure
 
