@@ -34,3 +34,39 @@
   - `executables-and-env.md`
   - `shell-config.md`
 - All content now structured cleanly inside the `linux/` folder of `bootdev-progress` repo
+
+
+
+## 2025-06-30 – Final Phase & Course Completion
+
+* Reviewed earlier concepts on laptop:
+
+  * Variables, history, file operations, users and permissions
+  * Standard input/output, environment variables, shell config
+
+* Continued on PC and **completed the rest of the Boot.dev Linux course**, starting from `man` command through to package managers and VS Code
+
+* Added the following markdowns to the `linux/` folder:
+
+  * `manuals-help-flags.md`
+  * `streams-and-exit-codes.md`
+  * `pipes-processes.md`
+  * `unix-philosophy-and-top.md`
+  * `package-managers.md`
+
+* Logged a final completion summary (`2025-06-30_completion-summary.md`)
+
+* Linux cheatsheet created for core commands and reference
+
+* Fully structured and self-contained note set for the entire course
+
+* Feeling confident in:
+
+  * Shell stream redirection (`>`, `2>`, `<`)
+  * Process management with `ps`, `kill`, `top`, and interrupts
+  * Understanding `man`, `--help`, and positional arguments
+  * Unix philosophy (programs that do one thing well, work together, and use text streams)
+  * Package managers (`apt`, `brew`, `webi`) and PATH awareness
+
+---
+
