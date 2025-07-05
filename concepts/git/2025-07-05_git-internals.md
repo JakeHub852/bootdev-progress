@@ -1,27 +1,8 @@
 
 ---
 
-````markdown
-# Boot.dev – Git Course  
-**Date:** July 5, 2025  
-**Topic:** Git Internals – Hashes, Objects & Plumbing
+## Git Internals – Hashes, Objects & Plumbing
 
----
-
-## ✅ Completed Assignments
-
-- [x] Used `git log -n 10` to view recent commit hashes
-- [x] Explored `.git/objects/` directory and matched hash folder
-- [x] Used `cat` on raw object (confirmed unreadable output)
-- [x] Used `xxd` to hex-dump object file and redirected output to `/tmp/commit_object_hex.txt`
-- [x] Used `git cat-file -p` to inspect commit object and redirected to `/tmp/catfileout.txt`
-- [x] Identified tree hash from commit and inspected it
-- [x] Used `git cat-file -p` on blob to retrieve file content and saved to `/tmp/blobfile.txt`
-- [x] Created `titles.md` and committed with message starting `B:`
-- [x] Verified second commit includes a `parent` field
-- [x] Created `quotes/` directory with `starwars.md` and `dune.md`
-- [x] Committed both files with message starting `C:`
-- [x] Verified that `titles.md` blob hash remained unchanged across commits
 
 ---
 
