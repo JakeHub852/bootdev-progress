@@ -78,5 +78,47 @@
 
 * Gained foundational understanding of Git object model and internal storage logic
 
+
 ---
 
+## 2025-07-08 – Branches, Refs, and Git History
+
+* Resumed Git course on Boot.dev after revision break
+
+* Focused on branching concepts, reference pointers, and internal commit history tracking
+
+* Learned that a **branch** is just a lightweight pointer to a specific commit (the "tip")
+
+  * Branches are cheap to create — they don’t duplicate file content
+  * Switching between branches moves HEAD to different commit histories
+
+* Renamed default branch to `main` to match modern GitHub convention
+
+  * Updated global config: `init.defaultBranch` → `main`
+  * Renamed current branch with `git branch -m master main`
+
+* Created and switched branches using:
+
+  * `git switch -c <branch>` (preferred)
+  * Compared to legacy `git checkout` for historical context
+
+* Deepened understanding of **diverging commit history**:
+
+  * Branches can share a base and evolve independently
+  * Visualized branching structures using commit diagrams
+
+* Observed how Git logs represent history and refs:
+
+  * Used `git log --oneline`, `--decorate=full`, and `--decorate=no` for clean output
+  * Noted how branch tips are visible as refs in log view
+
+* Explored how Git stores branch pointers:
+
+  * Branch refs live in `.git/refs/heads/`
+  * Each file contains the commit hash the branch tip currently points to
+
+* Reinforced mental model of Git as a graph of commits and named pointers
+
+* Built confidence in navigating Git history and understanding internal structures
+
+---
