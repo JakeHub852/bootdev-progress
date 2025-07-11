@@ -257,4 +257,4 @@ using a for loop.
 - Finished basics course today.
 - This course was a solid introduction to Python. The lessons were well explained and structured in a way that kept things engaging.
 - A few sections were tricky, but nothing ever felt too overwhelming. Overall, it was a good balance of challenge and clarity.
-- Looking forward to building on this foundation in the next course.
+- Looking forward to building on this foundation in the next course...
