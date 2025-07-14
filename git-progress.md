@@ -121,4 +121,47 @@
 
 * Built confidence in navigating Git history and understanding internal structures
 
+
+---
+
+
+# Git Learning Log – 2025-07-11
+
+Today I covered merge concepts in Git, including both standard merge commits and fast-forward merges. I now understand how Git tracks shared history between branches and how to interpret merge graphs. Feeling more confident working with branch workflows and visualizing project history.
+
+
+---
+
+### ✅ **Git Progress Update – July 12, 2025**
+
+* Practiced branching off older commits using `git switch -c <branch> <commit>`, which is useful for simulating stale branches or isolating test scenarios.
+* Revisited the purpose and power of `git rebase` — how it replays commits for a cleaner history without unnecessary merge commits.
+* Successfully:
+
+  * Created the `update_dune` branch from an earlier commit.
+  * Made two meaningful commits with proper labeling (`H:` and `I:`).
+  * Rebased the branch onto `main`, producing a tidy linear commit log.
+* Reinforced command fluency with:
+
+  * `git log --oneline`
+  * `git rebase main`
+  * CLI test runs and branch-specific verification.
+
+**Takeaway:**
+Rebase isn't dangerous — it's powerful when used intentionally. Today built more clarity and comfort with foundational branching and history rewriting in Git.
+
+
+---
+
+### `2025-07-13` – Resetting Changes
+
+* ✅ Completed chapter on `git reset`
+* Learned the difference between:
+
+  * `git reset --soft` → undo commit, keep changes staged
+  * `git reset --hard` → reset and **discard** changes entirely
+* Practiced safely navigating commit history
+* Reinforced caution with destructive commands
+* +700 XP progress toward daily 1000 XP goal
+
 ---
