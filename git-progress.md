@@ -165,3 +165,11 @@ Rebase isn't dangerous — it's powerful when used intentionally. Today built mo
 * +700 XP progress toward daily 1000 XP goal
 
 ---
+
+### 📆 2025-07-18 — GitHub Workflow Mastery
+
+- Linked local repo (`webflyx`) to new GitHub remote.
+- Practiced full push-pull workflow via GitHub CLI.
+- Created and merged a pull request using `add_classics` feature branch.
+- Confirmed fast-forward merge on local `main`.
+- Reviewed solo vs team Git workflows — now confident in both.
